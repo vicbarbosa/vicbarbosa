@@ -10,9 +10,9 @@ Here are my public Unity modular systems ready to use in your Unity games for fr
 
 [(WIP) Modular Quest System](https://github.com/vicbarbosa/modular-quest-system), 
 
-[(WIP) Modular-Skill-System](https://github.com/vicbarbosa),
+[(WIP) Modular Skill System](https://github.com/vicbarbosa),
 
-[(WIP) Generic-State-Manager](https://github.com/vicbarbosa), 
+[(WIP) Generic State Manager](https://github.com/vicbarbosa), 
 
 [(WIP) Object Pooling](https://github.com/vicbarbosa/pooling)
 

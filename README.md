@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-Here are my public Unity modular systems ready to use in your games for free!
+Here are my public Unity modular systems ready to use in your Unity games for free!
 
 [(WIP) Modular Damage System](https://github.com/vicbarbosa/modular-damage-system), 
 [(WIP) Modular Inventory System](https://github.com/vicbarbosa/modular-inventory-system), 
